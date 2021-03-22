@@ -265,4 +265,5 @@
     <!-- /.row -->
 
   </section>
+  /*Kamran*/
   <!-- /.content -->
